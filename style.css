@@ -1,0 +1,191 @@
+.mainheader {
+    width: 100%;
+    height: 2000px;
+}
+
+.parent {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(253, 218, 64);
+    display: flex;
+    gap: 150px;
+}
+
+.navbar ul li {
+    color: rgb(0, 119, 255);
+    margin: 10px;
+    display: inline-block;
+    margin-top: 40px;
+    font-size: 20px;
+    font-style: italic;
+    cursor: pointer;
+    margin: 20px;
+    list-style: none;
+    font-size: 30px;
+    box-shadow: inset;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: aliceblue;
+    border-color: aliceblue;
+    -moz-box-shadow: 5px 5px 5px 5px #777777;
+    -webkit-box-shadow: 5px 5px 5px 5px #777777;
+    box-shadow: 5px 5px 5px 5px #777777;
+}
+
+
+.banner img {
+    width: 100%;
+}
+
+.navbar ul li:hover {
+    color: rgb(26, 161, 71);
+    text-shadow: 1px 1px;
+}
+
+.none {
+    display: flex;
+    margin-top: 50px;
+    gap: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    cursor: pointer;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+.nonefix {
+    width: 100%;
+    height: 300px;
+
+}
+
+.table th td {
+    border: 1px solid;
+}
+
+.none-main {
+    display: flex;
+    flex-direction: column;
+    margin: 0%auto;
+    font-style: italic;
+    font: bold;
+    color: rgb(33, 67, 141);
+    padding: 0px;
+}
+
+.one1 {
+    border-style: solid;
+    padding: 2px;
+}
+
+.two2 {
+    border-style: solid;
+    padding: 2px;
+}
+
+.three3 {
+    border-style: solid;
+    padding: 2px;
+}
+
+.four4 {
+    border-style: solid;
+    padding: 2px;
+}
+
+.one {
+    border-style: solid;
+    padding: 2px;
+}
+
+.two {
+    border-style: solid;
+    padding: 2px;
+}
+
+.three {
+    border-style: solid;
+    padding: 2px;
+}
+
+.four {
+    border-style: solid;
+    padding: 2px;
+}
+
+.local {
+    margin-left: 500px;
+}
+
+.navbarone ul li {
+    color: rgb(109, 37, 37);
+    display: inline-block;
+    font-size: 20px;
+    font-style: italic;
+    cursor: pointer;
+    margin: 20px;
+    font-size: 30px;
+    margin-left: 100px;
+
+}
+
+.navbarone :hover {
+    color: black;
+}
+
+.nane img {
+    margin-left: 350px
+}
+
+.naneone {
+    margin-left: 500px;
+    border-style: solid;
+    width: 20%;
+    margin-bottom: 30px;
+    padding: 5px;
+    background-color: rgb(0, 0, 255);
+
+}
+
+.naneone p {
+    padding: 10px;
+}
+
+.naneone h1 {
+    color: rgb(255, 255, 255);
+}
+
+.lonal p {
+    color: rgb(255, 255, 255);
+}
+
+.lonal {
+    font-size: 25px;
+    color: black;
+    border-style: solid;
+    background-color: rgb(0, 0, 255);
+}
+
+.lonal p {
+    padding: 10px;
+}
+
+.hour img {
+    width: 20%;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.head {
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: black;
+    width: 700px;
+    margin: 0%auto;
+    background-color: rgb(0, 110, 255);
+    margin-top: 20px;
+}
